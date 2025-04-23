@@ -2,17 +2,18 @@
 window.addEventListener("load", function () {
   window.cookieconsent.initialise({
     palette: {
-      popup: { background: "#000" },
+      //popup: { background: "#000" },
+      popup: { background: "#e1e1e1" },
       button: { background: "#f1d600" }
     },
     theme: "classic",
     position: "bottom",
     type: "opt-in", // 需要用戶同意才啟用 cookies
     content: {
-      message: "本網站使用 cookies 來改善用戶體驗。",
-      dismiss: "接受",
-      deny: "拒絕",
-      link: "更多資訊",
+      message: "We use cookies to enhance user experience and collect anonymous usage statistics. These cookies will only be set if you provide your explicit consent.",
+      dismiss: "Accept",
+      deny: "Reject",
+      link: "More Information",
       href: "/docs/GDPR/PrivacyPolicy_Eng" // 隱私政策連結
     },
     onInitialise: function (status) {
