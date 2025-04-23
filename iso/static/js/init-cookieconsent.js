@@ -13,7 +13,7 @@ window.addEventListener("load", function () {
       dismiss: "接受",
       deny: "拒絕",
       link: "更多資訊",
-      href: "/privacy-policy" // 隱私政策連結
+      href: "/docs/GDPR/PrivacyPolicy_Eng" // 隱私政策連結
     },
     onInitialise: function (status) {
       if (status === "allow") {
