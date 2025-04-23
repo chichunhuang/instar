@@ -24,7 +24,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'chichunhuang', // Usually your GitHub org/user name.
   //*****TotemTemplate*****
-  projectName: 'intar', // Usually your repo name.
+  projectName: 'instar', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
