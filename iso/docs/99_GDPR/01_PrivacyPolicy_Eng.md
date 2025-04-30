@@ -30,7 +30,7 @@ If you are a resident of the European Economic Area (EEA), you have the right to
 - Request deletion of your data
 - Withdraw your cookie consent at any time
 
-To exercise your rights, please email us at: [Your Email]
+To exercise your rights, please email us at: ![mail](/img/horizontal.png)
 
 ### 6. Contact
-For any questions regarding this privacy policy, contact: [Your Email]
+For any questions regarding this privacy policy, contact: ![mail](/img/horizontal.png)

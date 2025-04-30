@@ -30,7 +30,7 @@ description: 中文版隱私權政策
 - 請求刪除與您相關的資料
 - 隨時撤回您對 Cookies 的同意
 
-如欲行使權利，請聯絡我：[您的 Email 地址]
+如欲行使權利，請聯絡我：![mail](/img/horizontal.png)
 
 ### 6. 聯絡我們
-若您對本政策有任何疑問，請來信：[您的 Email 地址]
+若您對本政策有任何疑問，請來信：![mail](/img/horizontal.png)
