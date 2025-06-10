@@ -88,6 +88,14 @@ const config = {
       }),
     ],
   ],
+  
+  //簡易流程圖 meramaid 1/3
+  themes: ['@docusaurus/theme-mermaid'],
+  
+  //簡易流程圖 meramaid 2/3
+  markdown: {
+    mermaid: true,
+  },
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -184,6 +192,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
+      mermaid: {
+        // 你可以在這裡設定 Mermaid 的選項 (optional)
+         theme: {light: 'neutral', dark: 'forest'},
+      },
+      
     }),
 };
 
